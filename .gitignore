@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# os x files
+.DS_Store
+/FaceBook_Prophet/.DS_Store
+/FaceBook_Prophet/prophet_0.6.1.tar/.DS_Store
+
